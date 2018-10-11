@@ -49,9 +49,9 @@ Martes 9: Horas dedicadas:     4      Lugar: Impact hub
 3) Ninguna.
 
  
-Miercoles: Horas dedicadas:           Lugar: Impact Hub
+Miercoles: Horas dedicadas:       1    Lugar: Impact Hub
 
-1)
-2) 
-3)
+1) Cierre Del sprint, entregar tarea EDM6
+2) Por definir
+3) ninguna.
 
